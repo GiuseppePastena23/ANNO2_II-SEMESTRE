@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\giuse\Desktop\ANNO2_II-SEMESTRE\TSW - Francese\Laboratorio\Peppe\.metadata\.plugins\org.eclipse.jdt.core
+3263404496.index
